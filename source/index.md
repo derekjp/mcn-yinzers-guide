@@ -1,20 +1,20 @@
 ---
 title: Home
 ---
-#WDD Yinzer's Guide 2016
+#A Yinzer's Guide to MCN 2017
 
-Usually, city guides are pretty terrible/paid for. So some of us yinzers (Pittsburghers) have put together a handy guide for Web Design Day 2016!
+Usually, city guides are terrible/paid for. So some of us yinzers (a.k.a. Pittsburghers) have put together a handy guide for those of you visiting for MCN 2017!
 
 ### General Stuff
 
-If you're staying near downtown or the North Side/North Shore area, many of the things here will be within walking distance. If not, Pittsburgh's [bike share program](https://healthyridepgh.com) can get you there, along with the standard Uber/Lyft options. Regular taxi service, like hailing a cab, generally doesn't work. Seriously, it's terrible.
+If you're staying at/near the conference hotel downtown or the North Side/North Shore area, many of the things here will be within walking distance. If not, Pittsburgh's [bike share program](https://healthyridepgh.com) can get you there, along with the standard Uber/Lyft options. Regular taxi service, like hailing a cab, generally doesn't work. Seriously, it's terrible. Try it for fun. They won't stop for you.
 
 If you've never been to Pittsburgh before, make it a priority to get to Mount Washington to see the city from Grandview Avenue. We have info on that below.
 
 If you're wondering what Pittsburgh is all about, a great introduction to the city are the [Rick Seback](www.twitter.com/rickaroundhere) "It's Pittsburgh, and a Lot of Other Stuff" videos, which you can stream [here](http://www.wqed.org/tv/watch/?series=3) via our local PBS affiliate, WQED. This guy is an institution. Or, you could just ask any Pittsburgher. Pittsburghers love to talk about Pittsburgh- it's part of living here.
 
 ### Strip District
-The Strip would be an excellent place to walk around on the day after Web Design Day. It's where Pittsburgh goes to get...pretty much anything. Steelers shirt? Yep. Random imported Italian cheese? Got it. Cannoli? Boom. Mung bean pancakes? Got you covered. Come hungry.
+The Strip is an excellent place to explore on foot. It's where Pittsburgh goes to get...pretty much anything. Steelers shirt? Yep. Random imported Italian cheese? Got it. Cannoli? Boom. Mung bean pancakes? Got you covered. Come hungry.
 
 #### Strip District Things:
 ##### Food:
@@ -33,6 +33,7 @@ The Strip would be an excellent place to walk around on the day after Web Design
 ##### Non-food:
 * Yinzers: [yelp](http://www.yelp.com/biz/yinzers-pittsburgh) | [directions](https://goo.gl/maps/EDwRI) | - Sports wear & Pittsburgh-themed memorabilia
 * Senator John Heinz History Center (museum): [site](http://www.heinzhistorycenter.org/) | [directions](https://goo.gl/maps/nGEJJ) | 10 am - 5 pm daily | $15 (adults) / $6 (kids, ages 6-17) / FREE (kids, ages 5 & under)
+* Eide's (record store): [site](http://www.eides.com/) | [directions](https://goo.gl/maps/ebrJJnQGF6B2) - Fantastic selection of new & used records, memorabilia and collectables
 
 
 ### Downtown (Cultural District)

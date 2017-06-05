@@ -19,6 +19,9 @@ body {
 h1 {
 	@extend %base-heading;
 	font-size: 2.0em;
+	color: $off-white;
+	-webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 h2 {
@@ -54,10 +57,10 @@ strong {
 }
 
 a {
-	color: $blue;
+	color: $red;
 	&:hover,
 	&:focus {
-		color: $light-blue;
+		color: $red;
 	}
 }
 
@@ -67,9 +70,13 @@ ul {
 	margin-left: 2em;
 	li {
 		margin-bottom: 0.25em;
+		-webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
 	}
 }
 
 p {
 	margin-bottom: 1.0em;
+	-webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
