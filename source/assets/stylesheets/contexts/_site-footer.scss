@@ -1,5 +1,10 @@
 .site-footer {
-	background-color: $dark-grey;
-	color: $off-white;
+	background-color: $gold;
+	color: $black;
 	padding: 1em 0 2em 0;
+}
+
+.site-footer a {
+	color: $black;
+	font-weight: bold;
 }

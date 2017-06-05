@@ -1,22 +1,29 @@
 ---
 title: Home
 ---
-#A Yinzer's Guide to MCN 2017
+<img src="/assets/images/pgh-pano.jpg">
 
-Usually, city guides are terrible/paid for. So some of us yinzers (a.k.a. Pittsburghers) have put together a handy guide for those of you visiting for MCN 2017!
+## Welcome to Pittsburgh! We're excited to host you for #MCN2017. Since most city guides are lifeless and/or paid-for, we yinzers (a.k.a. Pittsburghers) on the local host committee have put together a handy guide for MCN 2017! 
 
-### General Stuff
+### General Must-Knows
 
-If you're staying at/near the conference hotel downtown or the North Side/North Shore area, many of the things here will be within walking distance. If not, Pittsburgh's [bike share program](https://healthyridepgh.com) can get you there, along with the standard Uber/Lyft options. Regular taxi service, like hailing a cab, generally doesn't work. Seriously, it's terrible. Try it for fun. They won't stop for you.
+If you're staying at/near the conference hotel downtown, many restaurants and attractions will be within walking distance. If you're staying in another neighborhood, Pittsburgh's [bike share program](https://healthyridepgh.com) can get you around, along with the standard Uber/Lyft options. Regular taxi service, like hailing a cab, generally doesn't work. Seriously, it's terrible. Try it for fun. They won't stop for you.
 
 If you've never been to Pittsburgh before, make it a priority to get to Mount Washington to see the city from Grandview Avenue. We have info on that below.
 
 If you're wondering what Pittsburgh is all about, a great introduction to the city are the [Rick Seback](www.twitter.com/rickaroundhere) "It's Pittsburgh, and a Lot of Other Stuff" videos, which you can stream [here](http://www.wqed.org/tv/watch/?series=3) via our local PBS affiliate, WQED. This guy is an institution. Or, you could just ask any Pittsburgher. Pittsburghers love to talk about Pittsburgh- it's part of living here.
 
+### Downtown (Cultural District)
+##### Food:
+* Bakersfield: Tacos, tequila and whiskey. [site](http://www.bakersfieldtacos.com/) | [yelp](https://www.yelp.com/biz/bakersfield-penn-ave-pittsburgh) | [directions](https://goo.gl/maps/EpQx4Dxf9qz)
+* Nicky's Thai Kitchen: [site](http://www.nickysthaikitchen.com/) | [yelp](http://www.yelp.com/biz/nickys-thai-kitchen-pittsburgh-4) | [zomato](https://www.zomato.com/pittsburgh/nickys-thai-kitchen-1-pittsburgh/maps) | [directions](https://goo.gl/maps/seogX)
+* Sharp Edge: [site](http://sharpedgebeer.com/bistro-on-penn) | [yelp](http://www.yelp.com/biz/bistro-penn-pittsburgh-4) | [zomato](https://www.zomato.com/pittsburgh/the-sharp-edge-bistro-penn-pittsburgh/maps) | [directions](https://goo.gl/maps/bAXLo)
+* Sienna Mercato: [site](http://www.siennapgh.com/mercato/) | [yelp](http://www.yelp.com/biz/sienna-mercato-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/emporio-a-meatball-joint-pittsburgh) | [directions](https://goo.gl/maps/odkPP)
+* Ten Penny: [site](http://www.tenpennypgh.com/) | [yelp](http://www.yelp.com/biz/ten-penny-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/ten-penny-pittsburgh/menu) | [directions](https://goo.gl/maps/JJRbw)
+
 ### Strip District
 The Strip is an excellent place to explore on foot. It's where Pittsburgh goes to get...pretty much anything. Steelers shirt? Yep. Random imported Italian cheese? Got it. Cannoli? Boom. Mung bean pancakes? Got you covered. Come hungry.
 
-#### Strip District Things:
 ##### Food:
 * Gaucho: [site](http://eatgaucho.com/) | [yelp](http://www.yelp.com/biz/gaucho-parrilla-argentina-pittsburgh) | [zomato](http://www.zomato.com/r/23/1729706/restaurant/Strip-District/Gaucho-Parrilla-Argentina-Pittsburgh) | [directions](https://goo.gl/maps/hE6XU)
 * Pamela's (note: cash only, but there's an ATM): [site](http://www.pamelasdiner.com/) | [yelp](http://www.yelp.com/biz/pamelas-p-and-g-diner-pittsburgh) | [zomato](http://www.zomato.com/r/23/271273/restaurant/Strip-District/Pamelas-P-G-Diner-Pittsburgh) | [directions](https://goo.gl/maps/iY445)
@@ -35,14 +42,6 @@ The Strip is an excellent place to explore on foot. It's where Pittsburgh goes t
 * Senator John Heinz History Center (museum): [site](http://www.heinzhistorycenter.org/) | [directions](https://goo.gl/maps/nGEJJ) | 10 am - 5 pm daily | $15 (adults) / $6 (kids, ages 6-17) / FREE (kids, ages 5 & under)
 * Eide's (record store): [site](http://www.eides.com/) | [directions](https://goo.gl/maps/ebrJJnQGF6B2) - Fantastic selection of new & used records, memorabilia and collectables
 
-
-### Downtown (Cultural District)
-##### Food:
-* Nicky's Thai Kitchen: [site](http://www.nickysthaikitchen.com/) | [yelp](http://www.yelp.com/biz/nickys-thai-kitchen-pittsburgh-4) | [zomato](https://www.zomato.com/pittsburgh/nickys-thai-kitchen-1-pittsburgh/maps) | [directions](https://goo.gl/maps/seogX)
-* Sharp Edge: [site](http://sharpedgebeer.com/bistro-on-penn) | [yelp](http://www.yelp.com/biz/bistro-penn-pittsburgh-4) | [zomato](https://www.zomato.com/pittsburgh/the-sharp-edge-bistro-penn-pittsburgh/maps) | [directions](https://goo.gl/maps/bAXLo)
-* Sienna Mercato: [site](http://www.siennapgh.com/mercato/) | [yelp](http://www.yelp.com/biz/sienna-mercato-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/emporio-a-meatball-joint-pittsburgh) | [directions](https://goo.gl/maps/odkPP)
-* Ten Penny: [site](http://www.tenpennypgh.com/) | [yelp](http://www.yelp.com/biz/ten-penny-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/ten-penny-pittsburgh/menu) | [directions](https://goo.gl/maps/JJRbw)
-
 ### North Side/North Shore
 ##### Food:
 * El Burro: [site](http://www.elburropgh.com/) | [yelp](http://www.yelp.com/biz/el-burro-pittsburgh) | [zomato](http://www.zomato.com/r/23/1712246/restaurant/North-Side/El-Burro-Comedor-Pittsburgh) | [directions](https://goo.gl/maps/Qz9Jx) | Vegetarian & Vegan friendly
@@ -55,7 +54,7 @@ The Strip is an excellent place to explore on foot. It's where Pittsburgh goes t
 * Andy Warhol Museum: [site](http://www.warhol.org/) | 10 am - 10 pm, Friday / 10 am - 5 pm, Sat. & Sun. | $20 (Adults) / $10 (students & kids ages 3 - 18) / HALF PRICE ADMISSION ON FRIDAYS FROM 5 - 10 PM | [directions](https://goo.gl/maps/bIal0)
 * Mattress Factory (museum): [site](http://www.mattress.org/) | 10 am - 5 pm, Tues. - Sat. / 1 pm - 5 pm Sun. | $20 (Adults) / FREE (kids, under age 6) | [directions](https://goo.gl/maps/I8VO4)
 * Pittsburgh Children's Museum: [site](https://pittsburghkids.org/) | 10 am - 5 pm, daily | $14 (adults) / $13 (kids, ages 2-18) / FREE (kids, under age 2) | [directions](https://goo.gl/maps/5NPtf)
-* PNC Park: Pirates vs. Giants - Thursday @ 12:35 pm. Pirates vs. Dodgers Friday @ 7:05 pm, Saturday @ 7:15 pm | [tickets](http://pittsburgh.pirates.mlb.com/ticketing/index.jsp?c_id=pit) | [directions](https://goo.gl/maps/bKbAL)
+* PNC Park: [directions](https://goo.gl/maps/bKbAL)
 * Heinz Field: [directions](https://goo.gl/maps/cyd1J)
 * Randyland: [site](http://randy.land/) | 1 pm - 7 pm, daily | admission is free!
 * St. Anthony's Chapel (A unique and somewhat weird collection of relics off the beaten path): Open 1-4pm Saturday, with tours at 1, 2, and 3 | [site](http://saintanthonyschapel.org/) | [directions](https://goo.gl/maps/8zWQG)
@@ -90,10 +89,7 @@ Really, the best thing about Mount Washington is the amazing view of the city. R
 [directions](https://goo.gl/maps/xpDCk)
 
 ##### Non-Food:
-* [Row House Cinema's 2nd Birthday Party](http://rowhousecinema.com/tickets/index.php) featuring 2001: A Space Odyssey, Blade Runner, Moonrise Kingdom, and The Princess Bride.
-  * **Friday:** The Princess Bride - 12:15 pm, Blade Runner - 2:30 pm, Moonrise Kingdom - 5 pm, The Princess Bride - 7 pm, 2001: A Space Odyssey - 9:15 pm
-  * **Saturday:** The Princess Bride - Noon, 2001: A Space Odyssey - 2:15 pm, Moonrise Kingdom - 5:20 pm, Blade Runner - 7:30 pm, The Princess Bride - 10 pm
-  * **Sunday:** Moonrise Kingdom - Noon, The Princess Bride - 2 pm, Blade Runner - 4:15 pm, 2001: A Space Odyssey - 6:40 pm, Blade Runner - 9:40 pm
+* [Row House Cinema](http://rowhousecinema.com) 
 
 ### East Liberty / Shadyside
 
