@@ -5,15 +5,18 @@ title: Home
 
 ## Welcome to Pittsburgh! We're excited for you to explore our amazing city during #MCN2017. Since most city guides are lifeless and/or paid-for, we yinzers (a.k.a. Pittsburghers) on the local host committee have put together a handy guide for MCN 2017! 
 
-### General Must-Knows
+### General Information
 
 If you're staying at/near the conference hotel downtown, many restaurants and attractions will be within walking distance. If you're staying in another neighborhood, Pittsburgh's [bike share program](https://healthyridepgh.com) can get you around, along with the standard Uber/Lyft options. Regular taxi service, like hailing a cab, generally doesn't work. Seriously, it's terrible. Try it for fun. They won't stop for you.
 
-If you've never been to Pittsburgh before, make it a priority to get to Mount Washington to see the city from Grandview Avenue. We have info on that below.
-
-If you're wondering what Pittsburgh is all about, a great introduction to the city are the [Rick Seback](www.twitter.com/rickaroundhere) "It's Pittsburgh, and a Lot of Other Stuff" videos, which you can stream [here](http://www.wqed.org/tv/watch/?series=3) via our local PBS affiliate, WQED. This guy is an institution. Or, you could just ask any Pittsburgher. Pittsburghers love to talk about Pittsburgh- it's part of living here.
+A great introduction to the city is [Rick Seback](http://www.twitter.com/rickaroundhere)'s "It's Pittsburgh, and a Lot of Other Stuff" video series, which you can stream [here](http://www.wqed.org/tv/watch/?series=3) via our local PBS affiliate, WQED. This guy is an institution. Or, you could just ask any Pittsburgher. Yinzers love to talk about Pittsburgh- it's part of living here.
 
 ### Downtown (Cultural District)
+
+<img src="assets/images/downtown.png">
+
+Downtown Pittsburgh, colloquially referred to as the Golden Triangle or <em>Dahntahn</em> in Pittsburghese, and officially the Central Business District, is the urban downtown center of Pittsburgh. It is located at the confluence of the Allegheny River and the Monongahela River whose joining forms the Ohio River. The "triangle" is bounded by the two rivers.
+
 ##### Food:
 * Bakersfield: Tacos, tequila and whiskey. [site](http://www.bakersfieldtacos.com/) | [yelp](https://www.yelp.com/biz/bakersfield-penn-ave-pittsburgh) | [directions](https://goo.gl/maps/EpQx4Dxf9qz)
 * Nicky's Thai Kitchen: [site](http://www.nickysthaikitchen.com/) | [yelp](http://www.yelp.com/biz/nickys-thai-kitchen-pittsburgh-4) | [zomato](https://www.zomato.com/pittsburgh/nickys-thai-kitchen-1-pittsburgh/maps) | [directions](https://goo.gl/maps/seogX)
@@ -22,6 +25,9 @@ If you're wondering what Pittsburgh is all about, a great introduction to the ci
 * Ten Penny: [site](http://www.tenpennypgh.com/) | [yelp](http://www.yelp.com/biz/ten-penny-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/ten-penny-pittsburgh/menu) | [directions](https://goo.gl/maps/JJRbw)
 
 ### Strip District
+
+<img src="assets/images/strip.png">
+
 The Strip is an excellent place to explore on foot. It's where Pittsburgh goes to get...pretty much anything. Steelers shirt? Yep. Random imported Italian cheese? Got it. Cannoli? Boom. Mung bean pancakes? Got you covered. Come hungry.
 
 ##### Food:
