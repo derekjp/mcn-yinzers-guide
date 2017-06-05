@@ -54,6 +54,7 @@ set :images_dir, 'assets/images'
 
 # Build-specific configuration
 configure :build do
+  set :build_dir, 'docs'
   # For example, change the Compass output style for deployment
   activate :minify_css
 

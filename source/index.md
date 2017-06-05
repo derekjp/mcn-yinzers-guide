@@ -3,7 +3,7 @@ title: Home
 ---
 <img src="assets/images/pgh-pano.jpg">
 
-## Welcome to Pittsburgh! We're excited to host you for #MCN2017. Since most city guides are lifeless and/or paid-for, we yinzers (a.k.a. Pittsburghers) on the local host committee have put together a handy guide for MCN 2017! 
+## Welcome to Pittsburgh! We're excited for you to explore our amazing city during #MCN2017. Since most city guides are lifeless and/or paid-for, we yinzers (a.k.a. Pittsburghers) on the local host committee have put together a handy guide for MCN 2017! 
 
 ### General Must-Knows
 
