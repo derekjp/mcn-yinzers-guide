@@ -27,7 +27,7 @@ Downtown Pittsburgh, colloquially referred to as the Golden Triangle or <em>Dahn
 * Sienna Mercato (Meatballs!) [website](http://www.siennapgh.com/mercato/) | [yelp](http://www.yelp.com/biz/sienna-mercato-pittsburgh) | [directions](https://goo.gl/maps/odkPP)
 * Ten Penny (Classy casual spot for drinks & apps) [website](http://www.tenpennypgh.com/) | [yelp](http://www.yelp.com/biz/ten-penny-pittsburgh) | [directions](https://goo.gl/maps/JJRbw)
 
-#### Sights and Miscellany:
+#### Sights & Miscellany:
 * Arcade Commedy Theater (Best place in town to see live comedy) [website](http://arcadecomedytheater.com/) | [yelp](https://www.yelp.com/biz/arcade-comedy-theater-pittsburgh) | [directions](https://goo.gl/maps/mfVeVSQhGXD2)
 * Harris Theater (Indie films & documentaries) [website](https://trustarts.org/pct_home/visit/facilities/harris-theater/) | [directions](https://goo.gl/maps/iExh6KsVrGE2)
 * Market Square (Pittsburgh's traditional public square) [website](http://marketsquarepgh.com/) | [directions](https://goo.gl/maps/KNepZvewL8A2)
@@ -50,7 +50,7 @@ The Strip is an excellent place to explore on foot. It's where Pittsburgh goes t
 * Salem's Grill and Market (Note: closed from 1-2 on Friday for prayers): [yelp](http://www.yelp.com/biz/salems-market-and-grill-pittsburgh) | [directions](https://goo.gl/maps/XagDH)
 * Smallman Galley (Indie Restaurant incubator) [website](http://www.smallmangalley.org/) | [yelp](http://www.yelp.com/biz/smallman-galley-pittsburgh-2) | [directions](https://www.google.com/maps/dir//galley+kitchen+pittsburgh/@40.4519361,-80.0540342,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x8834f3dd3cda6335:0xc95198a984cbf75d!2m2!1d-79.9839935!2d40.4519572)
 
-#### Sights and Miscellany:
+#### Sights & Miscellany:
 * Eide's (Fantastic selection of new & used records, memorabilia and collectables) [website](http://www.eides.com/) | [directions](https://goo.gl/maps/ebrJJnQGF6B2)
 * Yinzers (Sports wear & Pittsburgh-themed memorabilia) [yelp](http://www.yelp.com/biz/yinzers-pittsburgh) | [directions](https://goo.gl/maps/EDwRI)
 * Senator John Heinz History Center (museum): [website](http://www.heinzhistorycenter.org/) | [directions](https://goo.gl/maps/nGEJJ)
@@ -67,7 +67,7 @@ Pittsburgh's North Side is located to the north of the Allegheny and Ohio Rivers
 * Monterey Pub (Neighborhood Irish pub) [website](http://www.montereypub.com/) | [yelp](https://www.yelp.com/biz/monterey-pub-pittsburgh) | [directions](https://goo.gl/maps/vur1E1CJdm62)
 * Penn Brewery (Pittsburgh's oldest & largest brewery) [website](http://www.pennbrew.com/) | [yelp](https://www.yelp.com/biz/penn-brewery-pittsburgh) | [directions](https://goo.gl/maps/eybAwDu8Vr72)
 
-#### Sights and Miscellany:
+#### Sights & Miscellany:
 * Andy Warhol Museum [website](http://www.warhol.org/) | [directions](https://goo.gl/maps/bIal0)
 * Mattress Factory (Museum of contemporary installation art) [website](http://www.mattress.org/) | [directions](https://goo.gl/maps/I8VO4)
 * Pittsburgh Children's Museum [website](https://pittsburghkids.org/) |  [directions](https://goo.gl/maps/5NPtf)
@@ -126,7 +126,7 @@ Lawrenceville is kind of like the Williamsburg (Brooklyn) of Pittsburgh. Lots of
 * Tender (artisan cocktails) [website](http://tenderpgh.com/) | [yelp](http://www.yelp.com/biz/tender-bar-and-kitchen-pittsburgh-2)
 * The Vandal [website](http://www.thevandalpgh.com/) | [yelp](http://www.yelp.com/biz/the-vandal-pittsburgh)
 
-#### Sights and Miscellany:
+#### Sights & Miscellany:
 * Backstage Guitars (Vintage guitars and analog amps/effects) [website](http://backstageguitars.com/) | [directions](https://goo.gl/maps/SdrkofyNiHF2)
 * Row House Cinema (Indie movie theater) [website](http://rowhousecinema.com) | [directions](https://goo.gl/maps/ktYgcnx6ygG2)
 
@@ -142,7 +142,7 @@ Lawrenceville is kind of like the Williamsburg (Brooklyn) of Pittsburgh. Lots of
 * Mad Mex (Americanized Tex-Mex comfort food, good for groups): [website](http://www.madmex.com/pittsburgh/shadyside) | [yelp](http://www.yelp.com/biz/mad-mex-shadyside-pittsburgh)
 * Social (bar so big that it's easily mistaken for an airplane hanger): [website](http://www.bakerysocial.com/) | [yelp](http://www.yelp.com/biz/social-pittsburgh)
 
-#### Sights and Miscellany:
+#### Sights & Miscellany:
 * East Liberty Presbyterian (huge historic church, worth wandering into) [website](http://cathedralofhope.org/)
 
 ### Oakland
@@ -156,7 +156,7 @@ Oakland is really a student haven, and where you can find the University of Pitt
 * The Porch (On Schenley Plaza) [website](http://www.theporchatschenley.com/) | [yelp](https://www.yelp.com/biz/the-porch-at-schenley-pittsburgh) | [directions](https://goo.gl/maps/YPiiQLqEppw)
 * Union Grill (A Pittsburgh landmark, right between Pitt & CMU) [website](https://www.uniongrillpittsburgh.com/) | [yelp](https://www.yelp.com/biz/union-grill-pittsburgh) | [directions](https://goo.gl/maps/hjqzQsqqDA52)
 
-#### Sights and Miscellany
+#### Sights & Miscellany
 * Carnegie Museums of Art and Natural History (two museums in one building) [CMOA site](http://www.cmoa.org) // [CMNH site](www.http://www.carnegiemnh.org/) | [directions](https://goo.gl/maps/xAUTRffyGzx)
 
 
