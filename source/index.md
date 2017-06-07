@@ -3,13 +3,15 @@ title: Home
 ---
 <img src="assets/images/pgh-pano.jpg">
 
-## Welcome to Pittsburgh! We're excited for you to explore our amazing city during #MCN2017. Since most city guides are lifeless and/or paid-for, we yinzers (a.k.a. Pittsburghers) on the local host committee have put together a handy guide for MCN 2017! 
+## Welcome to Pittsburgh! We're excited for you to explore our amazing city during #MCN2017. Since most city guides leave much to be desired in the areas of personality and authenticity, we yinzers (a.k.a. Pittsburghers) on the local host committee have created this handy guide for MCN 2017! 
 
 ### General Information
 
-If you're staying at/near the conference hotel downtown, many restaurants and attractions will be within walking distance. If you're staying in another neighborhood, Pittsburgh's [bike share program](https://healthyridepgh.com) can get you around, along with the standard Uber/Lyft options. Regular taxi service, like hailing a cab, generally doesn't work. Seriously, it's terrible. Try it for fun. They won't stop for you.
+If you're staying at/near the conference hotel downtown, many restaurants and attractions will be within walking distance. If you're staying in another neighborhood, Pittsburgh's [bike share program](https://healthyridepgh.com) can get you around, along with the standard Uber/Lyft options. Regular taxi service, like hailing a cab, generally doesn't work. 
 
-A great introduction to the city is [Rick Seback](http://www.twitter.com/rickaroundhere)'s "It's Pittsburgh, and a Lot of Other Stuff" video series, which you can stream [here](http://www.wqed.org/tv/watch/?series=3) via our local PBS affiliate, WQED. This guy is an institution. Or, you could just ask any Pittsburgher. Yinzers love to talk about Pittsburgh- it's part of living here.
+A great introduction to the city is [Rick Seback's](http://www.twitter.com/rickaroundhere) "It's Pittsburgh, and a Lot of Other Stuff" video series, which you can stream [here](http://www.wqed.org/tv/watch/?series=3) via our local PBS affiliate, WQED. This guy is a Pittsburgh treasure.
+
+We like to put french fries on a bunch of things, ranging from salads to [signature sandwiches](https://en.wikipedia.org/wiki/Primanti_Brothers). It's OK. Just let it happen. 
 
 ### Downtown (Cultural District)
 
@@ -17,12 +19,20 @@ A great introduction to the city is [Rick Seback](http://www.twitter.com/rickaro
 
 Downtown Pittsburgh, colloquially referred to as the Golden Triangle or <em>Dahntahn</em> in Pittsburghese, and officially the Central Business District, is the urban downtown center of Pittsburgh. It is located at the confluence of the Allegheny River and the Monongahela River whose joining forms the Ohio River. The "triangle" is bounded by the two rivers.
 
-##### Food:
-* Bakersfield: Tacos, tequila and whiskey. [site](http://www.bakersfieldtacos.com/) | [yelp](https://www.yelp.com/biz/bakersfield-penn-ave-pittsburgh) | [directions](https://goo.gl/maps/EpQx4Dxf9qz)
-* Nicky's Thai Kitchen: [site](http://www.nickysthaikitchen.com/) | [yelp](http://www.yelp.com/biz/nickys-thai-kitchen-pittsburgh-4) | [zomato](https://www.zomato.com/pittsburgh/nickys-thai-kitchen-1-pittsburgh/maps) | [directions](https://goo.gl/maps/seogX)
-* Sharp Edge: [site](http://sharpedgebeer.com/bistro-on-penn) | [yelp](http://www.yelp.com/biz/bistro-penn-pittsburgh-4) | [zomato](https://www.zomato.com/pittsburgh/the-sharp-edge-bistro-penn-pittsburgh/maps) | [directions](https://goo.gl/maps/bAXLo)
-* Sienna Mercato: [site](http://www.siennapgh.com/mercato/) | [yelp](http://www.yelp.com/biz/sienna-mercato-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/emporio-a-meatball-joint-pittsburgh) | [directions](https://goo.gl/maps/odkPP)
-* Ten Penny: [site](http://www.tenpennypgh.com/) | [yelp](http://www.yelp.com/biz/ten-penny-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/ten-penny-pittsburgh/menu) | [directions](https://goo.gl/maps/JJRbw)
+#### Food & Drink:
+* Bakersfield (Tacos, tequila and whiskey) [website](http://www.bakersfieldtacos.com/) | [yelp](https://www.yelp.com/biz/bakersfield-penn-ave-pittsburgh) | [directions](https://goo.gl/maps/EpQx4Dxf9qz)
+* Meat and Potatoes (Modern gastropub w/ great brunch) [website](http://meatandpotatoespgh.com/) | [yelp](https://www.yelp.com/biz/meat-and-potatoes-pittsburgh) | [directions](https://goo.gl/maps/GCPgwnbi3PB2)
+* Nicky's Thai Kitchen (Seriously tasty Thai) [website](http://www.nickysthaikitchen.com/) | [yelp](http://www.yelp.com/biz/nickys-thai-kitchen-pittsburgh-4) | [directions](https://goo.gl/maps/seogX)
+* Sharp Edge (Fantastic beer selection) [website](http://sharpedgebeer.com/bistro-on-penn) | [yelp](http://www.yelp.com/biz/bistro-penn-pittsburgh-4) | [directions](https://goo.gl/maps/bAXLo)
+* Sienna Mercato (Meatballs!) [website](http://www.siennapgh.com/mercato/) | [yelp](http://www.yelp.com/biz/sienna-mercato-pittsburgh) | [directions](https://goo.gl/maps/odkPP)
+* Ten Penny (Classy casual spot for drinks & apps) [website](http://www.tenpennypgh.com/) | [yelp](http://www.yelp.com/biz/ten-penny-pittsburgh) | [directions](https://goo.gl/maps/JJRbw)
+
+#### Sights and Miscellany:
+* Arcade Commedy Theater (Best place in town to see live comedy) [website](http://arcadecomedytheater.com/) | [yelp](https://www.yelp.com/biz/arcade-comedy-theater-pittsburgh) | [directions](https://goo.gl/maps/mfVeVSQhGXD2)
+* Harris Theater (Indie films & documentaries) [website](https://trustarts.org/pct_home/visit/facilities/harris-theater/) | [directions](https://goo.gl/maps/iExh6KsVrGE2)
+* Market Square (Pittsburgh's traditional public square) [website](http://marketsquarepgh.com/) | [directions](https://goo.gl/maps/KNepZvewL8A2)
+* Point State Park (The confluence of 3 rivers) [website](http://www.dcnr.state.pa.us/stateparks/findapark/point/) | [directions](https://goo.gl/maps/VzCSpcTFoPR2)
+
 
 ### Strip District
 
@@ -30,92 +40,123 @@ Downtown Pittsburgh, colloquially referred to as the Golden Triangle or <em>Dahn
 
 The Strip is an excellent place to explore on foot. It's where Pittsburgh goes to get...pretty much anything. Steelers shirt? Yep. Random imported Italian cheese? Got it. Cannoli? Boom. Mung bean pancakes? Got you covered. Come hungry.
 
-##### Food:
-* Gaucho: [site](http://eatgaucho.com/) | [yelp](http://www.yelp.com/biz/gaucho-parrilla-argentina-pittsburgh) | [zomato](http://www.zomato.com/r/23/1729706/restaurant/Strip-District/Gaucho-Parrilla-Argentina-Pittsburgh) | [directions](https://goo.gl/maps/hE6XU)
-* Pamela's (note: cash only, but there's an ATM): [site](http://www.pamelasdiner.com/) | [yelp](http://www.yelp.com/biz/pamelas-p-and-g-diner-pittsburgh) | [zomato](http://www.zomato.com/r/23/271273/restaurant/Strip-District/Pamelas-P-G-Diner-Pittsburgh) | [directions](https://goo.gl/maps/iY445)
-* Thin Man Sandwich Shop: [site](http://thinmansandwichshop.com/) | [yelp](http://www.yelp.com/biz/thin-man-sandwich-shop-pittsburgh) | [zomato](http://www.zomato.com/r/23/1715847/restaurant/Strip-District/Thin-Man-Sandwich-Shop-Pittsburgh) | [directions](https://goo.gl/maps/euDPB)
-* Primanti Brothers: [site](https://www.primantibros.com/) | [yelp](http://www.yelp.com/biz/primanti-brothers-pittsburgh) | [zomato](http://www.zomato.com/r/23/271431/restaurant/Strip-District/Primanti-Brothers-Pittsburgh) | [directions](https://goo.gl/maps/KbHFL)
-* Enrico Biscotti: [site](http://www.enricobiscotti.com/) | [yelp](http://www.yelp.com/biz/the-enrico-biscotti-co-pittsburgh) | [zomato](http://www.zomato.com/r/23/270566/restaurant/Strip-District/Enrico-Biscotti-Pittsburgh) | [directions](https://goo.gl/maps/vcHjk)
-* 21st Street (specialty coffee): [site](http://21streetcoffee.com/) | [yelp](http://www.yelp.com/biz/21st-street-coffee-and-tea-pittsburgh) | [zomato](http://www.zomato.com/r/23/334397/restaurant/Strip-District/21st-Street-Coffee-and-Tea-Pittsburgh)
-* Salem's Grill and Market (note: closed from 1-2 on Friday for prayers):
- [yelp](http://www.yelp.com/biz/salems-market-and-grill-pittsburgh) |
- [zomato](http://www.zomato.com/r/23/1502578/restaurant/Strip-District/Salems-Market-Grill-Pittsburgh) |
- [directions](https://goo.gl/maps/XagDH)
-* Smallman Galley: [site](http://www.smallmangalley.org/) | [yelp](http://www.yelp.com/biz/smallman-galley-pittsburgh-2) | [directions](https://www.google.com/maps/dir//galley+kitchen+pittsburgh/@40.4519361,-80.0540342,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x8834f3dd3cda6335:0xc95198a984cbf75d!2m2!1d-79.9839935!2d40.4519572)
+#### Food & Drink:
+* Gaucho (Wood-fired delights with an Argentine flare) [website](http://eatgaucho.com/) | [yelp](http://www.yelp.com/biz/gaucho-parrilla-argentina-pittsburgh) | [directions](https://goo.gl/maps/hE6XU)
+* Pamela's (The PGH Breakfast. Note: cash only, but there's an ATM) [website](http://www.pamelasdiner.com/) | [yelp](http://www.yelp.com/biz/pamelas-p-and-g-diner-pittsburgh) | [directions](https://goo.gl/maps/iY445)
+* Thin Man Sandwich Shop (Artisanal sandwiches) [website](http://thinmansandwichshop.com/) | [yelp](http://www.yelp.com/biz/thin-man-sandwich-shop-pittsburgh) | [directions](https://goo.gl/maps/euDPB)
+* Primanti Brothers (The original fries-on-sandwich thing) [website](https://www.primantibros.com/) | [yelp](http://www.yelp.com/biz/primanti-brothers-pittsburgh) | [directions](https://goo.gl/maps/KbHFL)
+* Enrico Biscotti (specialty coffee) [website](http://www.enricobiscotti.com/) | [yelp](http://www.yelp.com/biz/the-enrico-biscotti-co-pittsburgh)  | [directions](https://goo.gl/maps/vcHjk)
+* 21st Street (specialty coffee) [website](http://21streetcoffee.com/) | [yelp](http://www.yelp.com/biz/21st-street-coffee-and-tea-pittsburgh) 
+* Salem's Grill and Market (Note: closed from 1-2 on Friday for prayers): [yelp](http://www.yelp.com/biz/salems-market-and-grill-pittsburgh) | [directions](https://goo.gl/maps/XagDH)
+* Smallman Galley (Indie Restaurant incubator) [website](http://www.smallmangalley.org/) | [yelp](http://www.yelp.com/biz/smallman-galley-pittsburgh-2) | [directions](https://www.google.com/maps/dir//galley+kitchen+pittsburgh/@40.4519361,-80.0540342,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x8834f3dd3cda6335:0xc95198a984cbf75d!2m2!1d-79.9839935!2d40.4519572)
 
-##### Non-food:
-* Yinzers: [yelp](http://www.yelp.com/biz/yinzers-pittsburgh) | [directions](https://goo.gl/maps/EDwRI) | - Sports wear & Pittsburgh-themed memorabilia
-* Senator John Heinz History Center (museum): [site](http://www.heinzhistorycenter.org/) | [directions](https://goo.gl/maps/nGEJJ) | 10 am - 5 pm daily | $15 (adults) / $6 (kids, ages 6-17) / FREE (kids, ages 5 & under)
-* Eide's (record store): [site](http://www.eides.com/) | [directions](https://goo.gl/maps/ebrJJnQGF6B2) - Fantastic selection of new & used records, memorabilia and collectables
+#### Sights and Miscellany:
+* Eide's (Fantastic selection of new & used records, memorabilia and collectables) [website](http://www.eides.com/) | [directions](https://goo.gl/maps/ebrJJnQGF6B2)
+* Yinzers (Sports wear & Pittsburgh-themed memorabilia) [yelp](http://www.yelp.com/biz/yinzers-pittsburgh) | [directions](https://goo.gl/maps/EDwRI)
+* Senator John Heinz History Center (museum): [website](http://www.heinzhistorycenter.org/) | [directions](https://goo.gl/maps/nGEJJ)
 
-### North Side/North Shore
-##### Food:
-* El Burro: [site](http://www.elburropgh.com/) | [yelp](http://www.yelp.com/biz/el-burro-pittsburgh) | [zomato](http://www.zomato.com/r/23/1712246/restaurant/North-Side/El-Burro-Comedor-Pittsburgh) | [directions](https://goo.gl/maps/Qz9Jx) | Vegetarian & Vegan friendly
-* North Side Farmer's Market: Friday, 3:30 - 7:30 pm | [directions](https://goo.gl/maps/796GF)
-* Nicky's Thai Kitchen (North Side): [site](http://www.nickysthaikitchen.com/) | [yelp](http://www.yelp.com/biz/nickys-thai-kitchen-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/nickys-thai-kitchen-pittsburgh) | [directions](https://goo.gl/maps/HRgzB)
-* Carmi [site](http://www.carmirestaurant.com) | [yelp] (http://www.yelp.com/biz/carmi-family-restaurant-pittsburgh) | [directions](https://goo.gl/maps/GOSBh)
-* Max's Allegheny Tavern: [site](http://www.maxsalleghenytavern.com/) | [yelp](http://www.yelp.com/biz/maxs-allegheny-tavern-pittsburgh) | [directions](https://www.google.com/maps/place/Max's+Allegheny+Tavern/@40.4551832,-79.9997423,15z/data=!4m2!3m1!1s0x0:0x76b38e8bd490e8ab) | German food & extensive beer menu- a real yinzer hangout.
+### North Side
+<img src="assets/images/northside.png">
 
-##### Non-food:
-* Andy Warhol Museum: [site](http://www.warhol.org/) | 10 am - 10 pm, Friday / 10 am - 5 pm, Sat. & Sun. | $20 (Adults) / $10 (students & kids ages 3 - 18) / HALF PRICE ADMISSION ON FRIDAYS FROM 5 - 10 PM | [directions](https://goo.gl/maps/bIal0)
-* Mattress Factory (museum): [site](http://www.mattress.org/) | 10 am - 5 pm, Tues. - Sat. / 1 pm - 5 pm Sun. | $20 (Adults) / FREE (kids, under age 6) | [directions](https://goo.gl/maps/I8VO4)
-* Pittsburgh Children's Museum: [site](https://pittsburghkids.org/) | 10 am - 5 pm, daily | $14 (adults) / $13 (kids, ages 2-18) / FREE (kids, under age 2) | [directions](https://goo.gl/maps/5NPtf)
-* PNC Park: [directions](https://goo.gl/maps/bKbAL)
-* Heinz Field: [directions](https://goo.gl/maps/cyd1J)
-* Randyland: [site](http://randy.land/) | 1 pm - 7 pm, daily | admission is free!
-* St. Anthony's Chapel (A unique and somewhat weird collection of relics off the beaten path): Open 1-4pm Saturday, with tours at 1, 2, and 3 | [site](http://saintanthonyschapel.org/) | [directions](https://goo.gl/maps/8zWQG)
+Pittsburgh's North Side is located to the north of the Allegheny and Ohio Rivers. The term "North Side" does not refer to a specific neighborhood, but rather to a disparate collection of contiguous neighborhoods. It's the home many fantastic cultural destinations, eateries and sports venues.
+
+#### Food & Drink:
+* El Burro (Vegetarian- & vegan-friendly taco stand) [website](http://www.elburropgh.com/) | [yelp](http://www.yelp.com/biz/el-burro-pittsburgh) | [directions](https://goo.gl/maps/Qz9Jx)
+* Nicky's Thai Kitchen (Tasty Thai) [website](http://www.nickysthaikitchen.com/) | [yelp](http://www.yelp.com/biz/nickys-thai-kitchen-pittsburgh) | [directions](https://goo.gl/maps/HRgzB)
+* Max's Allegheny Tavern (Authentic German) [website](http://www.maxsalleghenytavern.com/) | [yelp](http://www.yelp.com/biz/maxs-allegheny-tavern-pittsburgh) | [directions](https://www.google.com/maps/place/Max's+Allegheny+Tavern/@40.4551832,-79.9997423,15z/data=!4m2!3m1!1s0x0:0x76b38e8bd490e8ab)
+* Monterey Pub (Neighborhood Irish pub) [website](http://www.montereypub.com/) | [yelp](https://www.yelp.com/biz/monterey-pub-pittsburgh) | [directions](https://goo.gl/maps/vur1E1CJdm62)
+* Penn Brewery (Pittsburgh's oldest & largest brewery) [website](http://www.pennbrew.com/) | [yelp](https://www.yelp.com/biz/penn-brewery-pittsburgh) | [directions](https://goo.gl/maps/eybAwDu8Vr72)
+
+#### Sights and Miscellany:
+* Andy Warhol Museum [website](http://www.warhol.org/) | [directions](https://goo.gl/maps/bIal0)
+* Mattress Factory (Museum of contemporary installation art) [website](http://www.mattress.org/) | [directions](https://goo.gl/maps/I8VO4)
+* Pittsburgh Children's Museum [website](https://pittsburghkids.org/) |  [directions](https://goo.gl/maps/5NPtf)
+* Pittsburgh Banjo Club (Wednesdays 8-11pm at the Elks Lodge #339) [website](https://www.thepittsburghbanjoclub.com/wednesday) | [directions](https://goo.gl/maps/oNVx39svdSQ2) 
+* Randyland (North Side folk/public art house) [website](http://randy.land/) | [direction](https://goo.gl/maps/NmtZ8W5aUvF2)
+* St. Anthony's Chapel (A unique and somewhat weird collection of relics off the beaten path) [website](http://saintanthonyschapel.org/) | [directions](https://goo.gl/maps/8zWQG)
 
 ### South Side
-##### Food:
-* Amazing Cafe (vegetarian / vegan, juice, smoothies): [site](http://www.amazingyoga.net/cafe/) | [yelp](http://www.yelp.com/biz/amazing-cafe-pittsburgh)
-* The Smiling Moose (rock and roll bar with a surprisingly good menu): [site](http://www.smiling-moose.com/) | [yelp](http://www.yelp.com/biz/the-smiling-moose-pittsburgh)
-* The Pub Chip Shop (heavy Scottish fare): [site](http://thepubchipshop.com/) | [yelp](http://www.yelp.com/biz/the-pub-chip-shop-pittsburgh)
-* Winghart's (burgers & whiskey): [site](http://www.winghartburgers.com/) | [yelp](http://www.yelp.com/biz/wingharts-burger-and-whiskey-bar-pittsburgh-2)
-* The Beehive (neighborhood institution): [site](http://www.beehivebuzz.com/)
-* The Pretzel Shop (If you go nowhere else, go here. Exactly what it sounds like-pretzels, pretzel sandwiches, etc. The best pretzels ever.)| [site](http://www.thepretzelshop.net/) | [yelp](http://www.yelp.com/biz/the-pretzel-shop-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/pretzel-shop-pittsburgh) | [directions](https://goo.gl/maps/1kEpSmKmHMm)
-* Piper's Pub (Pub food, and a great brunch)| [site](http://www.piperspub.com/) | [yelp](http://www.yelp.com/biz/pipers-pub-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/pipers-pub-pittsburgh) | [directions](https://goo.gl/maps/2NTqfY2ffTP2)
+<img src="assets/images/southside.png">
 
-##### Non-food:
+South Side is an area located along the Monongahela River across from Downtown Pittsburgh. The South Side is officially divided into two neighborhoods, South Side Flats and South Side Slopes, and is well-connected with public transit.
+
+#### Food & Drink:
+* Amazing Cafe (vegetarian / vegan, juice, smoothies) [website](http://www.amazingyoga.net/cafe/) | [yelp](http://www.yelp.com/biz/amazing-cafe-pittsburgh)
+* Dee's Cafe (PGH's 2nd best dive bar. Note: smoking permitted) [website](http://www.deescafe.com/) | [yelp](https://www.yelp.com/biz/dees-cafe-pittsburgh) | [directions](https://goo.gl/maps/RopQhADchrB2)
+* The Smiling Moose (rock and roll bar with a surprisingly good menu) [website](http://www.smiling-moose.com/) | [yelp](http://www.yelp.com/biz/the-smiling-moose-pittsburgh)
+* The Pub Chip Shop (heavy Scottish fare) [website](http://thepubchipshop.com/) | [yelp](http://www.yelp.com/biz/the-pub-chip-shop-pittsburgh)
+* Winghart's (burgers & whiskey) [website](http://www.winghartburgers.com/) | [yelp](http://www.yelp.com/biz/wingharts-burger-and-whiskey-bar-pittsburgh-2)
+* The Beehive (neighborhood institution serving coffee & sandwiches) [website](http://www.beehivebuzz.com/)
+* The Pretzel Shop (The best pretzels ever) [website](http://www.thepretzelshop.net/) | [yelp](http://www.yelp.com/biz/the-pretzel-shop-pittsburgh) | [directions](https://goo.gl/maps/1kEpSmKmHMm)
+* Piper's Pub (Pub food, and a great brunch) [site](http://www.piperspub.com/) | [yelp](http://www.yelp.com/biz/pipers-pub-pittsburgh) | [directions](https://goo.gl/maps/2NTqfY2ffTP2)
+
 ### Mount Washington
-Really, the best thing about Mount Washington is the amazing view of the city. Ride one of the two inclines to get to Grandview Avenue! | [Duquesne Incline - Lower Station](https://goo.gl/maps/20JP7) | [Mon Incline - Lower Station](https://goo.gl/maps/NfqRJ)
+<img src="assets/images/mt-washington.png">
+
+Really, the best thing about Mount Washington is the amazing view of the city. Ride one of the two inclines to get to Grandview Avenue!
+
+* [Duquesne Incline - Lower Station](https://goo.gl/maps/20JP7)
+* [Mon Incline - Lower Station](https://goo.gl/maps/NfqRJ)
+
+### Polish Hill
+<img src="assets/images/polish-hill.png">
+Polish Hill is a working-class neighborhood, just above the Strip District. It's home to artists and creatives, and there's a nice mix of younger and O.G. yinzers to be found here.
+
+#### Food & Drink
+* Church Brew Works (Church-turned-brewery w/ great menu) [yelp](https://www.yelp.com/biz/church-brew-works-pittsburgh) | [directions](https://goo.gl/maps/yVgzUSU4Pq82)
+* Gooski's (PGH's best dive bar & Tulo's favorite. Note: cash only and smoking permitted) [yelp](https://www.yelp.com/biz/gooskis-pittsburgh) | [directions](https://goo.gl/maps/8r1wZA4z1i92)
+* Rock Room (Another Polish Hill dive) [yelp](https://www.yelp.com/biz/rock-room-pittsburgh) | [directions](https://goo.gl/maps/UUxguQELJKB2)
+
+#### Sights & Miscellany
+* Cruel Noise Records (Great selection of indie/punk/hardcore/metal vinyl & tape) [website](https://www.cruelnoiserecords.com/) | [directions](https://goo.gl/maps/A2YMnaRKEAy)
 
 ### Lawrenceville
-##### Food:
-* Frankie's (cheap hot dogs, been around since the dawn of time. Follow the onions) | [yelp](http://www.yelp.com/biz/frankies-extra-long-pittsburgh) | [zomato](http://www.zomato.com/r/23/270638/restaurant/Lawrenceville/Frankies-Extra-Long-Pittsburgh) | [directions](https://goo.gl/maps/iYhMd)
-* Smoke BBQ Taqueria (Barbecue tacos. What's not to like? BYOB. Cash only, but there's an ATM onsite.) | [yelp](http://www.yelp.com/biz/smoke-bbq-taqueria-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/smoke-bbq-taqueria-pittsburgh) | [directions](https://goo.gl/maps/C8Uk6)
-* Constellation Coffee (specialty coffee): [site](http://www.constellationcoffeepgh.com/) | [yelp](http://www.yelp.com/biz/constellation-coffee-pittsburgh) | [zomato](http://www.zomato.com/r/23/1947665/restaurant/Bloomfield/Constellation-Coffee-Pittsburgh)
-* Round Corner Cantina (Mexican cocktails and bar food): [site](http://roundcornercantina.com/) | [yelp](http://www.yelp.com/biz/round-corner-cantina-pittsburgh) | [zomato](http://www.zomato.com/r/23/1484044/restaurant/Lawrenceville/Round-Corner-Cantina-Pittsburgh)
-* The Vandal: [site](http://www.thevandalpgh.com/) | [yelp](http://www.yelp.com/biz/the-vandal-pittsburgh)
-* Tender (artisan cocktails): [site](http://tenderpgh.com/) | [yelp](http://www.yelp.com/biz/tender-bar-and-kitchen-pittsburgh-2) | [zomato](http://www.zomato.com/r/23/1739461/restaurant/Lawrenceville/Tender-Bar-Kitchen-Pittsburgh)
-* Cure (artisan meat): [site](http://www.curepittsburgh.com/#welcome-to-cure) | [yelp](http://www.yelp.com/biz/cure-pittsburgh) | [zomato](http://www.zomato.com/r/23/1616797/restaurant/Lawrenceville/Cure-Pittsburgh)
-* Pusadee's Garden (Thai): [site](http://www.pusadeesgarden.com/) | [yelp](http://www.yelp.com/biz/pusadees-garden-pittsburgh) | [zomato](http://www.zomato.com/r/23/1453809/restaurant/Lawrenceville/Pusadees-Garden-Pittsburgh)
-* Espresso a Mano (coffee): [site](http://espressoamano.com/) |
-[yelp](http://www.yelp.com/biz/espresso-a-mano-pittsburgh) |
-[zomato](https://www.zomato.com/pittsburgh/espresso-a-mano-pittsburgh) |
-[directions](https://goo.gl/maps/xpDCk)
+<img src="assets/images/lawrenceville.png">
 
-##### Non-Food:
-* [Row House Cinema](http://rowhousecinema.com) 
+Lawrenceville is kind of like the Williamsburg (Brooklyn) of Pittsburgh. Lots of hipsters and young professionals, but some definite gems for eating, drinking and nightlife.
+
+#### Food & Drink:
+* Espresso a Mano (coffee) [website](http://espressoamano.com/) | [yelp](http://www.yelp.com/biz/espresso-a-mano-pittsburgh) | [directions](https://goo.gl/maps/xpDCk)
+* Cure (artisan meat) [website](http://www.curepittsburgh.com/#welcome-to-cure) | [yelp](http://www.yelp.com/biz/cure-pittsburgh) 
+* Frankie's (cheap hot dogs, been around since the dawn of time. Follow the onions.) | [yelp](http://www.yelp.com/biz/frankies-extra-long-pittsburgh) | [directions](https://goo.gl/maps/iYhMd)
+* Pusadee's Garden (Thai) [site](http://www.pusadeesgarden.com/) | [yelp](http://www.yelp.com/biz/pusadees-garden-pittsburgh)
+* Round Corner Cantina (Mexican cocktails and bar food) [website](http://roundcornercantina.com/) | [yelp](http://www.yelp.com/biz/round-corner-cantina-pittsburgh) 
+* Smoke BBQ Taqueria (Barbecue tacos. What's not to like? BYOB. Cash only, but there's an ATM onsite.) [yelp](http://www.yelp.com/biz/smoke-bbq-taqueria-pittsburgh) | [directions](https://goo.gl/maps/C8Uk6)
+* Spirit (Pizzeria, bar and event hall) [website](http://www.spiritpgh.com/) | [yelp](https://www.yelp.com/biz/spirit-lodge-pittsburgh-2) | [directions](https://goo.gl/maps/GdJYsivSN8o)
+* Tender (artisan cocktails) [website](http://tenderpgh.com/) | [yelp](http://www.yelp.com/biz/tender-bar-and-kitchen-pittsburgh-2)
+* The Vandal [website](http://www.thevandalpgh.com/) | [yelp](http://www.yelp.com/biz/the-vandal-pittsburgh)
+
+#### Sights and Miscellany:
+* Backstage Guitars (Vintage guitars and analog amps/effects) [website](http://backstageguitars.com/) | [directions](https://goo.gl/maps/SdrkofyNiHF2)
+* Row House Cinema (Indie movie theater) [website](http://rowhousecinema.com) | [directions](https://goo.gl/maps/ktYgcnx6ygG2)
 
 ### East Liberty / Shadyside
+<img src="assets/images/east-liberty-shadyside.png">
 
-#### Food:
-* Ace Hotel / The Whitfield (hotel + bar + restaurant): [site](https://www.acehotel.com/pittsburgh) | [yelp](http://www.yelp.com/biz/ace-hotel-pittsburgh-pittsburgh)
-* The Livermore (restaurant + bar): [site](http://www.thelivermorepgh.com/) | [yelp](http://www.yelp.com/biz/the-livermore-pittsburgh)
-* Dinette (pizza): [site](http://dinette-pgh.com/) | [yelp](http://www.yelp.com/biz/dinette-pittsburgh)
-* Pizza Taglio (pizza): [facebook](https://www.facebook.com/tagliopgh/) | [yelp](http://www.yelp.com/biz/pizza-taglio-pittsburgh-2)
-* Kelly's (cocktail bar, get the mac & cheese): [yelp](http://www.yelp.com/biz/kellys-bar-and-lounge-pittsburgh-2)
-* Mad Mex (Americanized Tex-Mex comfort food, good for groups): [site](http://www.madmex.com/pittsburgh/shadyside) | [yelp](http://www.yelp.com/biz/mad-mex-shadyside-pittsburgh)
-* Social (bar so big that it's easily mistaken for an airplane hanger): [site](http://www.bakerysocial.com/) | [yelp](http://www.yelp.com/biz/social-pittsburgh)
+#### Food & Drink:
+* Ace Hotel / The Whitfield (hotel + bar + restaurant) [website](https://www.acehotel.com/pittsburgh) | [yelp](http://www.yelp.com/biz/ace-hotel-pittsburgh-pittsburgh)
+* The Livermore (restaurant + bar) [website](http://www.thelivermorepgh.com/) | [yelp](http://www.yelp.com/biz/the-livermore-pittsburgh)
+* Dinette (pizza) [website](http://dinette-pgh.com/) | [yelp](http://www.yelp.com/biz/dinette-pittsburgh)
+* Pizza Taglio (pizza) [facebook](https://www.facebook.com/tagliopgh/) | [yelp](http://www.yelp.com/biz/pizza-taglio-pittsburgh-2)
+* Kelly's (cocktail bar, get the mac & cheese) [yelp](http://www.yelp.com/biz/kellys-bar-and-lounge-pittsburgh-2)
+* Mad Mex (Americanized Tex-Mex comfort food, good for groups): [website](http://www.madmex.com/pittsburgh/shadyside) | [yelp](http://www.yelp.com/biz/mad-mex-shadyside-pittsburgh)
+* Social (bar so big that it's easily mistaken for an airplane hanger): [website](http://www.bakerysocial.com/) | [yelp](http://www.yelp.com/biz/social-pittsburgh)
 
-#### Non-food:
-* East Liberty Presbyterian (huge historic church, worth wandering into): [site](http://cathedralofhope.org/)
+#### Sights and Miscellany:
+* East Liberty Presbyterian (huge historic church, worth wandering into) [website](http://cathedralofhope.org/)
 
 ### Oakland
+<img src="assets/images/oakland.png">
+
 Oakland is really a student haven, and where you can find the University of Pittsburgh and Carnegie Mellon University. The main attractions here are some awesome museums, and great parks. Parking can be a challenge, so pay close attention to where you're parking and how much it will cost.
 
-#### Non-Food
-* Carnegie Museums of Art and Natural History (two museums in one building-admission gets you entry to both, and you can leave and re-enter all day if you retain your ticket): [CMOA site](www.cmoa.org) // [CMNH site](www.http://www.carnegiemnh.org/) | Fri. 10am-5pm, Sat.  10-5, Sun. 12-5 | Admission: Adults $19.95, Seniors $14.95, Students and Children 3-18 $11.95, Children under 3 FREE, Admission is discounted 50% after 3PM on Weekdays. Holders of ACCESS cards receive admission for $1 per person, up to four people. Other discounts [here](http://www.cmoa.org/discounts/).
+#### Food & Drink
+* Frankie's (cheap hot dogs, been around since the dawn of time. Follow the onions) [yelp](http://www.yelp.com/biz/frankies-extra-long-pittsburgh) | [directions](https://goo.gl/maps/iYhMd)
+* Fuel and Fuddle (Great for late night comfort food) [website](http://fuelandfuddle.com/) | [yelp](https://www.yelp.com/biz/fuel-and-fuddle-pittsburgh) | [directions](https://goo.gl/maps/hQg6fXZ74B22)
+* The Porch (On Schenley Plaza) [website](http://www.theporchatschenley.com/) | [yelp](https://www.yelp.com/biz/the-porch-at-schenley-pittsburgh) | [directions](https://goo.gl/maps/YPiiQLqEppw)
+* Union Grill (A Pittsburgh landmark, right between Pitt & CMU) [website](https://www.uniongrillpittsburgh.com/) | [yelp](https://www.yelp.com/biz/union-grill-pittsburgh) | [directions](https://goo.gl/maps/hjqzQsqqDA52)
 
-##### Food
-* Frankie's (cheap hot dogs, been around since the dawn of time. Follow the onions) | [zomato](http://www.zomato.com/r/23/270638/restaurant/Lawrenceville/Frankies-Extra-Long-Pittsburgh) | [yelp](http://www.yelp.com/biz/frankies-extra-long-pittsburgh) | [directions](https://goo.gl/maps/iYhMd)
+#### Sights and Miscellany
+* Carnegie Museums of Art and Natural History (two museums in one building) [CMOA site](http://www.cmoa.org) // [CMNH site](www.http://www.carnegiemnh.org/) | [directions](https://goo.gl/maps/xAUTRffyGzx)
+
+

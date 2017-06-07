@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Source+Sans+Pro');
+
 %base-heading {
 	font-family: $serif-stack;
 	margin-bottom: 0.5em;
@@ -22,6 +24,7 @@ img {
 
 h1 {
 	@extend %base-heading;
+	font-family: 'Inconsolata', monospace;
 	font-size: 2.0em;
 	color: $black;
 	font-weight: bold;
@@ -31,32 +34,44 @@ h1 {
 
 h2 {
 	@extend %base-heading;
+	font-family: 'Inconsolata', monospace;
 	font-size: 1.4em;
 	padding: 1em 0 0 0;
+	-webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 	
 }
 
 h3 {
 	@extend %base-heading;
+	font-family: 'Inconsolata', monospace;
 	border-top: 1px $copy-color solid;
 	font-size: 1.4em;
+	font-weight: bold;
 	margin-top: 1em;
 	padding: 1em 0 0 0;
+	-webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 h4 {
 	@extend %base-heading;
 	font-size: 1.25em;
+	font-family: 'Inconsolata', monospace;
+	-webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 h5 {
 	@extend %base-heading;
 	font-size: 1.15em;
+	font-family: 'Inconsolata', monospace;
 }
 
 h6 {
 	@extend %base-heading;
 	font-size: 0.8em;
+	font-family: 'Inconsolata', monospace;
 }
 
 strong {
@@ -77,6 +92,8 @@ ul {
 	margin-bottom: 1em;
 	margin-left: 2em;
 	li {
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 1.15em;
 		margin-bottom: 0.25em;
 		-webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
@@ -85,6 +102,8 @@ ul {
 
 p {
 	margin-bottom: 1.0em;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 1.15em;
 	-webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
