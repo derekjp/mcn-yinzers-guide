@@ -9,15 +9,17 @@ title: Home
 
 If you're staying at/near the conference hotel downtown, many restaurants and attractions will be within walking distance. If you're staying in another neighborhood, Pittsburgh's [bike share program](https://healthyridepgh.com) can get you around, along with the standard Uber/Lyft options. Regular taxi service, like hailing a cab, generally doesn't work. 
 
-A great introduction to the city is [Rick Seback's](http://www.twitter.com/rickaroundhere) "It's Pittsburgh, and a Lot of Other Stuff" video series, which you can stream [here](http://www.wqed.org/tv/watch/?series=3) via our local PBS affiliate, WQED. This guy is a Pittsburgh treasure.
+A great introduction to the city is [Rick Seback's](http://www.twitter.com/rickaroundhere) *It's Pittsburgh, and a Lot of Other Stuff* video series, which you can stream [here](http://www.wqed.org/tv/watch/?series=3) via our local PBS affiliate, WQED. This guy is a Pittsburgh treasure.
 
-We like to put french fries on a bunch of things, ranging from salads to [signature sandwiches](https://en.wikipedia.org/wiki/Primanti_Brothers). It's OK. Just let it happen. 
+We like to put french fries on a bunch of things, ranging from salads to [signature sandwiches](https://en.wikipedia.org/wiki/Primanti_Brothers). It's OK. Just let it happen. There are many other things that make this city charming and special, some of which include [the dialect](https://en.wikipedia.org/wiki/Western_Pennsylvania_English), [family traditions](https://en.wikipedia.org/wiki/Cookie_table) and affinity for [the city's official colors](https://www.youtube.com/watch?v=UePtoxDhJSw).
+
+Pittsburgh is best described as a city that's made up of distinct and vibrant neighborhoods, which are defined largely by the region's prominent topography. A curated list of several of these neighborhoods and their respective attractions are highlighted below.
 
 ### Downtown (Cultural District)
 
 <img src="assets/images/downtown.png">
 
-Downtown Pittsburgh, colloquially referred to as the Golden Triangle or <em>Dahntahn</em> in Pittsburghese, and officially the Central Business District, is the urban downtown center of Pittsburgh. It is located at the confluence of the Allegheny River and the Monongahela River whose joining forms the Ohio River. The "triangle" is bounded by the two rivers.
+Downtown Pittsburgh, colloquially referred to as the Golden Triangle or *Dahntahn* in Pittsburghese, and officially the Central Business District, is the urban downtown center of Pittsburgh. It is located at the confluence of the Allegheny River and the Monongahela River whose joining forms the Ohio River. The "triangle" is bounded by the two rivers.
 
 #### Food & Drink:
 * Bakersfield (Tacos, tequila and whiskey) [website](http://www.bakersfieldtacos.com/) | [yelp](https://www.yelp.com/biz/bakersfield-penn-ave-pittsburgh) | [directions](https://goo.gl/maps/EpQx4Dxf9qz)
@@ -28,11 +30,10 @@ Downtown Pittsburgh, colloquially referred to as the Golden Triangle or <em>Dahn
 * Ten Penny (Classy casual spot for drinks & apps) [website](http://www.tenpennypgh.com/) | [yelp](http://www.yelp.com/biz/ten-penny-pittsburgh) | [directions](https://goo.gl/maps/JJRbw)
 
 #### Sights & Miscellany:
-* Arcade Commedy Theater (Best place in town to see live comedy) [website](http://arcadecomedytheater.com/) | [yelp](https://www.yelp.com/biz/arcade-comedy-theater-pittsburgh) | [directions](https://goo.gl/maps/mfVeVSQhGXD2)
+* Arcade Comedy Theater (Best place in town to see live comedy) [website](http://arcadecomedytheater.com/) | [yelp](https://www.yelp.com/biz/arcade-comedy-theater-pittsburgh) | [directions](https://goo.gl/maps/mfVeVSQhGXD2)
 * Harris Theater (Indie films & documentaries) [website](https://trustarts.org/pct_home/visit/facilities/harris-theater/) | [directions](https://goo.gl/maps/iExh6KsVrGE2)
 * Market Square (Pittsburgh's traditional public square) [website](http://marketsquarepgh.com/) | [directions](https://goo.gl/maps/KNepZvewL8A2)
 * Point State Park (The confluence of 3 rivers) [website](http://www.dcnr.state.pa.us/stateparks/findapark/point/) | [directions](https://goo.gl/maps/VzCSpcTFoPR2)
-
 
 ### Strip District
 
@@ -100,6 +101,7 @@ Really, the best thing about Mount Washington is the amazing view of the city. R
 
 ### Polish Hill
 <img src="assets/images/polish-hill.png">
+
 Polish Hill is a working-class neighborhood, just above the Strip District. It's home to artists and creatives, and there's a nice mix of younger and O.G. yinzers to be found here.
 
 #### Food & Drink
@@ -148,7 +150,7 @@ Lawrenceville is kind of like the Williamsburg (Brooklyn) of Pittsburgh. Lots of
 ### Oakland
 <img src="assets/images/oakland.png">
 
-Oakland is really a student haven, and where you can find the University of Pittsburgh and Carnegie Mellon University. The main attractions here are some awesome museums, and great parks. Parking can be a challenge, so pay close attention to where you're parking and how much it will cost.
+Oakland is really a student haven, and where you can find the University of Pittsburgh and Carnegie Mellon University. The main attractions here are some awesome museums and great parks. Parking can be a challenge, so pay close attention to where you're parking and how much it will cost.
 
 #### Food & Drink
 * Frankie's (cheap hot dogs, been around since the dawn of time. Follow the onions) [yelp](http://www.yelp.com/biz/frankies-extra-long-pittsburgh) | [directions](https://goo.gl/maps/iYhMd)
