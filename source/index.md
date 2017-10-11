@@ -153,7 +153,6 @@ Lawrenceville is kind of like the Williamsburg (Brooklyn) of Pittsburgh. Lots of
 Oakland is really a student haven, and where you can find the University of Pittsburgh and Carnegie Mellon University. The main attractions here are some awesome museums and great parks. Parking can be a challenge, so pay close attention to where you're parking and how much it will cost.
 
 #### Food & Drink
-* Frankie's (cheap hot dogs, been around since the dawn of time. Follow the onions) [yelp](http://www.yelp.com/biz/frankies-extra-long-pittsburgh) | [directions](https://goo.gl/maps/iYhMd)
 * Fuel and Fuddle (Great for late night comfort food) [website](http://fuelandfuddle.com/) | [yelp](https://www.yelp.com/biz/fuel-and-fuddle-pittsburgh) | [directions](https://goo.gl/maps/hQg6fXZ74B22)
 * The Porch (On Schenley Plaza) [website](http://www.theporchatschenley.com/) | [yelp](https://www.yelp.com/biz/the-porch-at-schenley-pittsburgh) | [directions](https://goo.gl/maps/YPiiQLqEppw)
 * Union Grill (A Pittsburgh landmark, right between Pitt & CMU) [website](https://www.uniongrillpittsburgh.com/) | [yelp](https://www.yelp.com/biz/union-grill-pittsburgh) | [directions](https://goo.gl/maps/hjqzQsqqDA52)
