@@ -44,7 +44,6 @@ The Strip is an excellent place to explore on foot. It's where Pittsburgh goes t
 #### Food & Drink:
 * Gaucho (Wood-fired delights with an Argentine flare) [website](http://eatgaucho.com/) | [yelp](http://www.yelp.com/biz/gaucho-parrilla-argentina-pittsburgh) | [directions](https://goo.gl/maps/hE6XU)
 * Pamela's (The PGH Breakfast. Note: cash only, but there's an ATM) [website](http://www.pamelasdiner.com/) | [yelp](http://www.yelp.com/biz/pamelas-p-and-g-diner-pittsburgh) | [directions](https://goo.gl/maps/iY445)
-* Thin Man Sandwich Shop (Artisanal sandwiches) [website](http://thinmansandwichshop.com/) | [yelp](http://www.yelp.com/biz/thin-man-sandwich-shop-pittsburgh) | [directions](https://goo.gl/maps/euDPB)
 * Primanti Brothers (The original fries-on-sandwich thing) [website](https://www.primantibros.com/) | [yelp](http://www.yelp.com/biz/primanti-brothers-pittsburgh) | [directions](https://goo.gl/maps/KbHFL)
 * Enrico Biscotti (specialty coffee) [website](http://www.enricobiscotti.com/) | [yelp](http://www.yelp.com/biz/the-enrico-biscotti-co-pittsburgh)  | [directions](https://goo.gl/maps/vcHjk)
 * 21st Street (specialty coffee) [website](http://21streetcoffee.com/) | [yelp](http://www.yelp.com/biz/21st-street-coffee-and-tea-pittsburgh) 
@@ -153,11 +152,13 @@ Lawrenceville is kind of like the Williamsburg (Brooklyn) of Pittsburgh. Lots of
 Oakland is really a student haven, and where you can find the University of Pittsburgh and Carnegie Mellon University. The main attractions here are some awesome museums and great parks. Parking can be a challenge, so pay close attention to where you're parking and how much it will cost.
 
 #### Food & Drink
+* Ali Baba (Long-standing, since 1972, eatery serving authentic Middle Eastern dishes in a relaxed setting.) [yelp](https://www.yelp.com/biz/ali-baba-pittsburgh)  |  [directions](https://goo.gl/maps/tDPHZfyxC612)
 * Fuel and Fuddle (Great for late night comfort food) [website](http://fuelandfuddle.com/) | [yelp](https://www.yelp.com/biz/fuel-and-fuddle-pittsburgh) | [directions](https://goo.gl/maps/hQg6fXZ74B22)
 * The Porch (On Schenley Plaza) [website](http://www.theporchatschenley.com/) | [yelp](https://www.yelp.com/biz/the-porch-at-schenley-pittsburgh) | [directions](https://goo.gl/maps/YPiiQLqEppw)
 * Union Grill (A Pittsburgh landmark, right between Pitt & CMU) [website](https://www.uniongrillpittsburgh.com/) | [yelp](https://www.yelp.com/biz/union-grill-pittsburgh) | [directions](https://goo.gl/maps/hjqzQsqqDA52)
 
 #### Sights & Miscellany
 * Carnegie Museums of Art and Natural History (two museums in one building) [CMOA site](http://www.cmoa.org) // [CMNH site](www.http://www.carnegiemnh.org/) | [directions](https://goo.gl/maps/xAUTRffyGzx)
+* Phipps Conservatory and Botanical Gardens [website](https://www.phipps.conservatory.org/)  |  [directions](https://goo.gl/maps/St6xwbi5RHF2)
 
 
