@@ -83,6 +83,7 @@ South Side is an area located along the Monongahela River across from Downtown P
 #### Food & Drink:
 * Amazing Cafe (vegetarian / vegan, juice, smoothies) [website](http://www.amazingyoga.net/cafe/) | [yelp](http://www.yelp.com/biz/amazing-cafe-pittsburgh)
 * Dee's Cafe (PGH's 2nd best dive bar. Note: smoking permitted) [website](http://www.deescafe.com/) | [yelp](https://www.yelp.com/biz/dees-cafe-pittsburgh) | [directions](https://goo.gl/maps/RopQhADchrB2)
+* Onion Maiden (Punk rock-fueled, heavy metal-spawned food purveyer) [website](https://www.onionmaiden.com)  |  [yelp](https://www.yelp.com/biz/onion-maiden-pittsburgh)  |  [directions](https://goo.gl/maps/uTG3QzJKSPU2)
 * The Smiling Moose (rock and roll bar with a surprisingly good menu) [website](http://www.smiling-moose.com/) | [yelp](http://www.yelp.com/biz/the-smiling-moose-pittsburgh)
 * The Pub Chip Shop (heavy Scottish fare) [website](http://thepubchipshop.com/) | [yelp](http://www.yelp.com/biz/the-pub-chip-shop-pittsburgh)
 * Winghart's (burgers & whiskey) [website](http://www.winghartburgers.com/) | [yelp](http://www.yelp.com/biz/wingharts-burger-and-whiskey-bar-pittsburgh-2)
@@ -153,6 +154,7 @@ Oakland is really a student haven, and where you can find the University of Pitt
 
 #### Food & Drink
 * Ali Baba (Long-standing, since 1972, eatery serving authentic Middle Eastern dishes in a relaxed setting.) [yelp](https://www.yelp.com/biz/ali-baba-pittsburgh)  |  [directions](https://goo.gl/maps/tDPHZfyxC612)
+* Cafe Carnegie (Upscale museum dining) [website](http://thecafecarnegie.com)  |  [yelp](https://www.yelp.com/biz/the-café-carnegie-pittsburgh)  |  [directions](https://goo.gl/maps/SZQUL4G8HnL2)
 * Fuel and Fuddle (Great for late night comfort food) [website](http://fuelandfuddle.com/) | [yelp](https://www.yelp.com/biz/fuel-and-fuddle-pittsburgh) | [directions](https://goo.gl/maps/hQg6fXZ74B22)
 * The Porch (On Schenley Plaza) [website](http://www.theporchatschenley.com/) | [yelp](https://www.yelp.com/biz/the-porch-at-schenley-pittsburgh) | [directions](https://goo.gl/maps/YPiiQLqEppw)
 * Union Grill (A Pittsburgh landmark, right between Pitt & CMU) [website](https://www.uniongrillpittsburgh.com/) | [yelp](https://www.yelp.com/biz/union-grill-pittsburgh) | [directions](https://goo.gl/maps/hjqzQsqqDA52)
