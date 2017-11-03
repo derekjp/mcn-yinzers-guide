@@ -144,7 +144,7 @@ Lawrenceville is kind of like the Williamsburg (Brooklyn) of Pittsburgh. Lots of
 * Dinette (pizza) [website](http://dinette-pgh.com/) | [yelp](http://www.yelp.com/biz/dinette-pittsburgh)
 * Pizza Taglio (pizza) [facebook](https://www.facebook.com/tagliopgh/) | [yelp](http://www.yelp.com/biz/pizza-taglio-pittsburgh-2)
 * Kelly's (cocktail bar, get the mac & cheese) [yelp](http://www.yelp.com/biz/kellys-bar-and-lounge-pittsburgh-2)
-* Mad Mex (Americanized Tex-Mex comfort food, good for groups): [website](http://www.madmex.com/pittsburgh/shadyside) | [yelp](http://www.yelp.com/biz/mad-mex-shadyside-pittsburgh)
+* Mad Mex (Americanized Tex-Mex comfort food, good for groups. Also: [THE GOBBLERITO!](http://madmex.com/gobblerito)): [website](http://www.madmex.com/pittsburgh/shadyside) | [yelp](http://www.yelp.com/biz/mad-mex-shadyside-pittsburgh)
 * Social (bar so big that it's easily mistaken for an airplane hanger): [website](http://www.bakerysocial.com/) | [yelp](http://www.yelp.com/biz/social-pittsburgh)
 
 #### Sights & Miscellany:
