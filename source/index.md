@@ -90,6 +90,7 @@ South Side is an area located along the Monongahela River across from Downtown P
 * The Beehive (neighborhood institution serving coffee & sandwiches) [website](http://www.beehivebuzz.com/)
 * The Pretzel Shop (The best pretzels ever) [website](http://www.thepretzelshop.net/) | [yelp](http://www.yelp.com/biz/the-pretzel-shop-pittsburgh) | [directions](https://goo.gl/maps/1kEpSmKmHMm)
 * Piper's Pub (Pub food, and a great brunch) [site](http://www.piperspub.com/) | [yelp](http://www.yelp.com/biz/pipers-pub-pittsburgh) | [directions](https://goo.gl/maps/2NTqfY2ffTP2)
+* Big Dog Coffee (Comfortable cafe w/GIANT cup of coffee) [yelp](https://www.yelp.com/biz/big-dog-coffee-pittsburgh)
 
 ### Mount Washington
 <img src="assets/images/mt-washington.png">
