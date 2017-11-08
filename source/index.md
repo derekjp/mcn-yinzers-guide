@@ -126,7 +126,6 @@ Lawrenceville is kind of like the Williamsburg (Brooklyn) of Pittsburgh. Lots of
 * Round Corner Cantina (Mexican cocktails and bar food) [website](http://roundcornercantina.com/) | [yelp](http://www.yelp.com/biz/round-corner-cantina-pittsburgh)
 * Smoke BBQ Taqueria (Barbecue tacos. What's not to like? BYOB. Cash only, but there's an ATM onsite.) [yelp](http://www.yelp.com/biz/smoke-bbq-taqueria-pittsburgh) | [directions](https://goo.gl/maps/C8Uk6)
 * Spirit (Pizzeria, bar and event hall) [website](http://www.spiritpgh.com/) | [yelp](https://www.yelp.com/biz/spirit-lodge-pittsburgh-2) | [directions](https://goo.gl/maps/GdJYsivSN8o)
-* Tender (artisan cocktails) [website](http://tenderpgh.com/) | [yelp](http://www.yelp.com/biz/tender-bar-and-kitchen-pittsburgh-2)
 * The Vandal [website](http://www.thevandalpgh.com/) | [yelp](http://www.yelp.com/biz/the-vandal-pittsburgh)
 * Butterwood Bake Consortium (baked goods, cake, coffee, Vegan/Veg friendly.) [website](https://www.thebutterwoodbakeconsortium.com/) | [yelp](https://www.yelp.com/biz/the-butterwood-bake-consortium-pittsburgh)
 * Ki Ramen (Ramen. Try the bao buns! Vegan/Veg friendly) | [website](http://kiramenpgh.com/) | [yelp](https://www.yelp.com/biz/ki-ramen-pittsburgh)
